@@ -1,0 +1,77 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: bmc_article.aux
+The style file: bmc-mathphys.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: bmc_article.bib
+Warning--entry type for "khar" isn't style-file defined
+--line 45 of file bmc_article.bib
+Warning--entry type for "pond" isn't style-file defined
+--line 101 of file bmc_article.bib
+Warning--entry type for "mouse" isn't style-file defined
+--line 177 of file bmc_article.bib
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--to sort, need author or key in pond
+Warning--to sort, need author or key in mouse
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 13 entries,
+            7128 wiz_defined-function locations,
+            1196 strings with 10639 characters,
+and the built_in function-call counts, 344134 in all, are:
+= -- 66347
+> -- 267
+< -- 140
++ -- 42923
+- -- 106
+* -- 6794
+:= -- 58679
+add.period$ -- 17
+call.type$ -- 13
+change.case$ -- 147
+chr.to.int$ -- 274
+cite$ -- 17
+duplicate$ -- 991
+empty$ -- 2480
+format.name$ -- 254
+if$ -- 89668
+int.to.chr$ -- 1
+int.to.str$ -- 31
+missing$ -- 414
+newline$ -- 359
+num.names$ -- 59
+pop$ -- 504
+preamble$ -- 1
+purify$ -- 54
+quote$ -- 26
+skip$ -- 40639
+stack$ -- 0
+substring$ -- 31126
+swap$ -- 259
+text.length$ -- 213
+text.prefix$ -- 1
+top$ -- 0
+type$ -- 509
+warning$ -- 2
+while$ -- 380
+width$ -- 0
+write$ -- 439
+(There were 5 warnings)
